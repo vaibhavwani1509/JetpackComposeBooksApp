@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jetpack Books App</string>
+
+    <string name="add_book_title">Add a Book</string>
+    <string name="book_name">Book Name</string>
+    <string name="author">Author</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="add_book">Add Book</string>
+    <string name="all_books_title">All Books</string>
+
+</resources>
